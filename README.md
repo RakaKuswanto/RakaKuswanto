@@ -41,10 +41,14 @@ I make elegantly **🌐 Website, 📑 Powerpoint Slides, 🎮 2D Games** for a l
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<!-- <a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/raka-kuswanto-08448b136/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://rakakuswanto.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://rakakuswanto.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a> -->
+[![Linkedin Badge](https://img.shields.io/badge/-Raka%20Kuswanto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raka-kuswanto-08448b136/)](https://www.linkedin.com/in/raka-kuswanto-08448b136/)
+[![Instagram Badge](https://img.shields.io/badge/-rakakuswanto-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rakakuswanto/)](https://instagram.com/rakakuswanto)
+[![Medium Badge](https://img.shields.io/badge/-@raka.kuswanto-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@raka.kuswanto/)](https://medium.com/@raka.kuswanto)
+[![Gmail Badge](https://img.shields.io/badge/-raka.kuswanto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raka.kuswanto@gmail.com)](mailto:raka.kuswanto@gmail.com)
 </p>
 
 <p  align="center">
