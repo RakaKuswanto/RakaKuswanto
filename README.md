@@ -32,7 +32,6 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RakaKuswanto&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=blueberry" alt="Raka's Github Stats" /></br></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakaKuswanto&hide_langs_below=1&theme=blueberry&line_height=27&layout=compact" /></br></br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=RakaKuswanto&column=7" alt="Raka's Github Trophy" />
-<!-- <img align="center" src="https://github.com/RakaKuswanto/RakaKuswanto/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" /> -->
 </p>
 
 </details>
@@ -49,7 +48,6 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 </p>
 
 <p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=RakaKuswanto.RakaKuswanto" alt="visitor badge"/>       
 </p>
 
