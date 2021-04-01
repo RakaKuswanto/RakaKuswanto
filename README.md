@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/RakaKuswanto/RakaKuswanto/master/icons/wave.gif" width="30px">
 
-I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+I make elegantly **🌐 Website, 📑 Powerpoint Slides, 🎮 2D Games** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 💼   Senior Back End Engineer at Alibaba Group.
@@ -15,7 +15,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * ✍🏻   I write my personal thoughts on Programming, Hacking & Tech in my [Personal Blog](https://rakakuswanto.github.io/).
 
 <details>
-  <summary>Some other achievements about me~e~e</summary>
+  <summary>Some other achievements about me</summary>
   <br>
 
 <p align="center">
