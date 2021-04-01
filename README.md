@@ -1,7 +1,7 @@
 
 ![](https://github.com/RakaKuswanto/RakaKuswanto/blob/master/icons/header_.png)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/RakaKuswanto/RakaKuswanto/master/icons/wave.gif" width="30px">
 
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
