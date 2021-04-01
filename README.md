@@ -32,8 +32,8 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RakaKuswanto&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Raka's Github Stats" /></br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakaKuswanto&hide_langs_below=1&theme=default&line_height=27&layout=compact" /></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RakaKuswanto&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Raka's Github Stats" /></br></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakaKuswanto&hide_langs_below=1&theme=default&line_height=27&layout=compact" /></br></br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=RakaKuswanto&column=7" alt="Raka's Github Trophy" />
 <!-- <img align="center" src="https://github.com/RakaKuswanto/RakaKuswanto/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" /> -->
 </p>
@@ -46,9 +46,9 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 
 <p align="center">
 <a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://www.linkedin.com/in/raka-kuswanto-08448b136/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://rakakuswanto.github.io/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
 <p  align="center">
