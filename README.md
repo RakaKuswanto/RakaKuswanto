@@ -7,7 +7,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 💼   Senior Back End Engineer at Alibaba Group.
-* 🎓   Bachelor of Engineering in Computer Science and Engineering, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
+* 🎓   Bachelor of Engineering in Computer Science and Engineering.
 * 🌱   Currently learning Math & Philosophy.
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 4 years' computer science and technology education.
@@ -18,11 +18,8 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
   <summary>Some other achievements about me~e~e</summary>
   <br>
 
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
-
 <p align="center">
-<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
+<a href= "https://api.au.badgr.io/public/assertions/gP2l436pQJStDTZDSSOF5g?identity__email=raka.kuswanto%40gmail.com"><img src="https://github.com/RakaKuswanto/RakaKuswanto/blob/master/icons/hacktober.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
 <a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
@@ -134,19 +131,4 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
   </a>
 </p>
 
--->
-
-<!--
-**halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
