@@ -6,12 +6,8 @@
 I make elegantly **🌐 Website, 📑 Powerpoint Slides, 🎮 2D Games** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Senior Back End Engineer at Alibaba Group.
 * 🎓   Bachelor of Engineering in Computer Science and Engineering.
-* 🌱   Currently learning Math & Philosophy.
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 4 years' computer science and technology education.
-* ⛵   Encouraging people for open source collaborations.
 * ✍🏻   I write my personal thoughts on Programming, Hacking & Tech in my [Personal Blog](https://rakakuswanto.github.io/).
 
 <details>
