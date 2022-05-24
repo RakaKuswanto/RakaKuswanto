@@ -20,10 +20,6 @@ I make elegantly **🌐 Website, 📑 Powerpoint Slides, 🎮 2D Games** for a l
 
 <p align="center">
 <a href= "https://api.au.badgr.io/public/assertions/gP2l436pQJStDTZDSSOF5g?identity__email=raka.kuswanto%40gmail.com"><img src="https://github.com/RakaKuswanto/RakaKuswanto/blob/master/icons/hacktober.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
-<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
 </p>
 
 * 👑   Some GitHub statistical reports:
